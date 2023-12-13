@@ -1,10 +1,10 @@
 # -IoT-application-OpenWeather
 
 ## List
-1. ESP32-E DevKit
-2. USB Data Line
-3. IlI9341 Screen
-4. Dupont Line
+- ESP32-E DevKit
+- USB Data Line
+- IlI9341 Screen
+- Dupont Line
 
 ![image](https://github.com/milkcandy0119/-IoT-application-OpenWeather/assets/96375831/2c4f5c20-fcdf-4d03-8ac1-662513899bea)
 
@@ -32,6 +32,6 @@ Install ESP32 in Arduino IDE: https://shop.mirotek.com.tw/iot/esp32-start-2/
 - arduino ide 2.2.1 => esp32 working but cant add tools
 
 ## sourse
-https://shop.mirotek.com.tw/iot/esp32-start-2/
-https://shop.mirotek.com.tw/iot/esp32-start-35/
-https://shop.mirotek.com.tw/iot/esp32-start-36/
+- https://shop.mirotek.com.tw/iot/esp32-start-2/
+- https://shop.mirotek.com.tw/iot/esp32-start-35/
+- https://shop.mirotek.com.tw/iot/esp32-start-36/
