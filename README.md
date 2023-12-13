@@ -26,6 +26,11 @@
 ## Other
 Install ESP32 in Arduino IDE: https://shop.mirotek.com.tw/iot/esp32-start-2/
 
+## P.S.
+### 2023.12.13
+arduino ide 1.8.19 => need to install esp32 3.0.0-alpha3(2.0.11 & 2.0.10 cant work WTF)
+arduino ide 2.2.1 => esp32 working but cant add tools
+
 ## sourse
 https://shop.mirotek.com.tw/iot/esp32-start-2/
 https://shop.mirotek.com.tw/iot/esp32-start-35/
